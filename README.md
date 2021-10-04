@@ -38,7 +38,7 @@ const Badr = {
 
   
 - 💬 Ask me about anything, I am happy to help .
-- 📫 How to reach me : [<img alt="KENSI Badr Linked'in" width="22px" src="https://raw.githubusercontent.com/peterthehan /peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/badr-kensi-970525203/)
+
 
 
 
